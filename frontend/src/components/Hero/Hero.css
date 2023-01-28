@@ -1,0 +1,33 @@
+.hero-section{
+    display: flex;
+    flex-direction: row;    
+    height: 90vh;
+   
+}
+
+.hero_left{
+    margin: 6rem 0 0 6rem;
+}
+
+.hero-right{
+    margin: 6rem 4rem 0 0;
+}
+
+.hero_desc{
+    width: 70%;
+}
+
+
+
+.hero_heading span{
+    color: #FF725E;
+}
+
+
+.hero_heading h1{
+    font-weight: 800;
+    font-size: 3.5rem;
+    
+}
+
+

@@ -1,0 +1,79 @@
+.newsletter{
+    background-color: #3C3C45;
+    text-align: center;
+    width: 50vh;
+    height: 78vh;
+    margin-left: 30vh;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;    
+}
+
+.title{
+    display: flex;
+    flex-direction: row;
+    padding-top: 3rem;
+    padding-left: 3rem;
+}
+
+.title h3{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 1rem;
+}
+
+.newsletter_desc .desc_1 h5{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 1rem;
+   
+}
+.newsletter_desc .desc_1 p{
+    color: #D0D0D0;
+    font-size: 18px;
+    font-weight: 400;   
+   
+}
+
+.newsletter_text{
+    padding: 1rem 2rem 1rem 2rem ;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.newsletter_text button{
+    margin-top: 1rem;
+    color: #292930;
+    padding: 12px;
+    font-size: 1.1rem;
+    
+}
+
+input{
+    caret-color: #fff;
+    background-color: #5B5B61;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    color: #fff;
+    
+}
+
+input:focus{
+    outline: none;
+}
+
+input::placeholder{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+}
