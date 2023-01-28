@@ -10,7 +10,7 @@ const Newsletter = () => {
                 <img src={mic} alt="" height={50} width={50}/>
             </div>
             <div className="heading">
-                <h3>Promote</h3>
+                <h3>Interview</h3>
             </div>
         </div>
         <div className="newsletter_img">

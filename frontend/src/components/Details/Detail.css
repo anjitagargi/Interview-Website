@@ -1,0 +1,91 @@
+.details{
+    width: 90vh;
+    margin-top: 1rem;
+}
+
+.details_one{
+    display: flex;
+    flex-direction: row;
+    gap: 8rem;
+    color: #fff;   
+}
+
+.details_one .phone{
+   padding: 10px;
+   background-color: #3C3C45;
+   border-radius: 5px;
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   -ms-border-radius: 5px;
+   -o-border-radius: 5px;
+}
+.details_one .phone h3 { 
+font-size: 1.5rem;
+margin-top: 6px;
+color: yellow;
+}
+
+.details_two{
+    display: flex;
+    flex-direction: row;
+    gap: 9rem;
+    margin-top: 2rem;
+    color: #fff;
+}
+
+
+
+.one_right a{
+    padding-top: 3rem;
+}
+.one_left i{
+   color: #3AD879;
+}
+.one_right i{
+   color: #FFDC60;
+}
+
+hr{
+    color: #727274;
+}
+
+.one_left h3{
+    font-size: 1.5rem;
+    
+}
+
+.details_three {
+   margin-top: 2rem;
+}
+.details_three h4{
+    color: white;
+    font-size:1.2rem;
+    text-align: center;
+}
+.details_two h4{
+    color: white;
+    font-size:1.5rem;
+    text-align: center;
+}
+
+.details_two a{
+     color: #fff;
+}
+
+.details_two li{
+     list-style: none;
+     padding-top: 10px;
+}
+
+.details_two .two_1 i{
+    color: #FF5449;
+    
+}
+.details_two .two_2 i{
+    color: #32B5FF;
+    
+}
+.details_two .two_3 i{
+    color: #42E052;
+    
+}

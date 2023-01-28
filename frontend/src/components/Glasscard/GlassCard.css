@@ -1,6 +1,6 @@
 .card{
-    width: 40vh;
-    height: 50vh;
+    width: 45vh;
+    height: 52vh;
     border-radius: 15px;
     box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
     background: rgba(255, 255, 255, 0.1);
@@ -10,6 +10,7 @@
     -o-border-radius: 15px;
     overflow: hidden;
     position: relative;
+    padding-top: 1rem;
 }
 
 .content_title h4, .content_desc p{

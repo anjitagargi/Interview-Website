@@ -1,0 +1,68 @@
+.review{
+    height: 90vh;
+    background: linear-gradient(104.98deg, rgba(233, 247, 255, 0.64) -22.7%, rgba(255, 219, 213, 0.62) 137.3%);
+    padding: 3rem 0 3rem 6rem;
+}
+
+.review_left{
+    display: flex;
+    flex-direction: row;
+}
+
+.review_img{    
+    margin-top: 4px;
+    margin-right: 1rem;
+}
+.review_title h5{
+  font-size: 22px;
+  font-weight: 500;
+}
+.review_title h2{
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.review_bottom{
+    display: flex;
+    flex-direction: row;
+    margin-top: 1rem;
+    padding: 0 2rem;
+}
+
+.review_top {
+  display: flex;
+  flex-direction: row;
+  margin-top: 1rem;
+  padding: 0 2rem;
+  justify-content: space-between;
+}
+
+.review_right button {
+  padding: 10px;
+  height: 60px;
+  width: 60px;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  -ms-border-radius: 100%;
+  -o-border-radius: 100%;
+}
+.review_right button i {
+  font-size: 20px;
+}
+.review_right  {
+  margin-right: 35px;
+  margin-top: 10px;
+}
+
+.review_right .btn-1{
+    background-color: black;
+    color: white;
+    margin: 0 1rem;
+}
+.review_right .btn-2{
+    background-color: #fff;
+    color: black;
+    
+    border: none;
+}

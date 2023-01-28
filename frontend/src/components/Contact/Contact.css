@@ -1,0 +1,162 @@
+.contact{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.contact_img{
+    margin: 4rem 2rem 4rem 4rem;
+    
+}
+.contact_img img{
+    height:90vh;
+    width: 80vh;
+}
+
+.box
+{
+    position: relative;
+    width: 830px;
+    height: 670px;
+   
+    margin-bottom: 20px;
+    margin-top: 25px;
+    align-self: center;
+    background: linear-gradient(89.68deg, #E9F7FF -8.49%, #FCDED9 72.23%, #FFE3D1 172.57%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 13px;
+    padding: 30px;
+
+}
+.box .head h2
+{
+    font-style: normal;
+    font-weight: 600;
+    padding: 20px;
+    font-size: 59.03px;
+    line-height: 92.39px;
+}
+.box .head p
+{
+    position: relative;
+    top: 90px;
+    margin-left: -325px;
+    width: 350px;
+    padding: 15px;
+    font-size: 18.48px;
+    line-height: 28.93px;
+    font-weight: 400;
+}
+.box .form
+{
+    position: absolute;
+    width: 388px;
+    height: 580px;
+    left: 420px;
+    background: #FFFFFF;
+    border-radius: 13px;
+    margin-top: -100px;
+    align-items: center;
+}
+
+.box .form form
+{
+    padding: 8px;
+    margin-top: 1px;
+    align-items: center;
+}
+.box .form .ele 
+{
+    padding: auto;
+    margin-top: 30px;
+}
+.box .form .ele .label
+{
+    padding: 5px;
+    font-weight: 400;
+    font-size: 20.54px;
+    line-height: 32.15px;
+    margin-left: 10px;
+}
+
+.box .form .ele .input-box
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 350px;
+    height: 45px;
+    background: #FFFFFF;
+    border: 0.951407px solid #D0D0D0;
+    border-radius: 9.51407px;
+    color: #D0D0D0;
+    margin-left: 10px;
+}
+.box .form .ele .input-area
+{
+    box-sizing: border-box;
+    position: absolute;
+    width: 350px;
+    height: 200px;
+    background: #FFFFFF;
+    border: 0.951407px solid #D0D0D0;
+    border-radius: 9.51407px;
+    margin-left: 10px;
+    color: #D0D0D0;
+}
+::-webkit-input-placeholder
+{
+    color: #D0D0D0;
+    padding: 10px;
+}
+
+.box .form .btn
+{
+    position: absolute;
+    width: 80px;
+    height: 25.99px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17.7946px;
+    line-height: 156.5%;
+    position: absolute;
+    width: 197px;
+    height: 38px;
+    background: #292930;
+    border-radius: 7px;
+    top: 525px;
+    left: 155px;
+    /* or 28px */
+
+    color: #FFFFFF;
+}
+.box .con
+{
+    position: relative;
+    height: 30px;
+    margin-top: 230px;
+    margin-left: 8px;
+}
+.box .con p
+{
+    display: inline-block;
+    position: absolute;
+    height: 20.6px;
+    font-family: 'Noto Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.3081px;
+    line-height: 156.5%;
+    color: #000000;
+}
+.box .social
+{
+    position: relative;
+    top: 180px;
+}
+.box .social a
+{
+    padding: 8px;
+    width: 30px;
+    height: 35px;
+    left: 464px;
+}
