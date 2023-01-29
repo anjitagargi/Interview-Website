@@ -23,7 +23,7 @@ const AppPage=() => {
                 </div>
 
                 <div className="app-low-head">
-                    <h5> Our geeks are in full swing relentlessly coading our sleek new app to bring it out to you asps so it'll we a click away from you</h5>
+                    <h5> Our geeks are in full swing relentlessly coading our sleek new app to bring it out to you asap with more features so it'll we a click away from you.</h5>
                 </div>
 
                 <div className="app-info">
@@ -33,7 +33,7 @@ const AppPage=() => {
                     <div className="icon-info">
                         <h3><strong>Guaranteed Results</strong></h3>
                         <hr></hr>
-                        <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
+                        <h5>Chat option and many more features are coming to ensure better result.</h5>
                     </div>
                     <div className="icon">
                         
@@ -43,7 +43,7 @@ const AppPage=() => {
                     <div className="icon-info">
                         <h3><strong>Team of Industry Experts</strong></h3>
                         <hr></hr>
-                        <h5>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
+                        <h5>More number of mentors will be joining from different industries with varieties of courses.</h5>
                     </div>
  
                 </div>

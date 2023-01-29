@@ -1,8 +1,11 @@
 import React from 'react'
 import "./Navbar.css"
 import meet from '../../assets/meeting.png'
+import { Link } from '@mui/material'
+
 
 const Navbar = () => {
+ 
   return (
     <div className="navbar">
       <div className="navbar_left">
@@ -28,7 +31,7 @@ const Navbar = () => {
             <a href="/">Login</a>
           </div>
           <div className="nav_start">
-            <button><a href="/">Get Started</a></button>
+            <button><Link href="/live">Get Started</Link></button>
           </div>
         </div>
 
